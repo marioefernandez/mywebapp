@@ -28,3 +28,4 @@ C:\Users\Ronald\OneDrive - Universidad del Magdalena\Dev\myWebApp\obj\Debug\net8
 C:\Users\Ronald\OneDrive - Universidad del Magdalena\Dev\myWebApp\obj\Debug\net8.0\myWebApp.pdb
 C:\Users\Ronald\OneDrive - Universidad del Magdalena\Dev\myWebApp\obj\Debug\net8.0\myWebApp.genruntimeconfig.cache
 C:\Users\Ronald\OneDrive - Universidad del Magdalena\Dev\myWebApp\obj\Debug\net8.0\ref\myWebApp.dll
+C:\Users\Ronald\OneDrive - Universidad del Magdalena\Dev\myWebApp\obj\Debug\net8.0\myWebApp.sourcelink.json
